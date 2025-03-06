@@ -1,16 +1,42 @@
-# currency_converter
+# Currency Converter
 
-A new Flutter project.
+## Overview
+This is a 'Currency Converter' app build in Flutter framework, this does not contains much Features yet, but i will improve it future by integrating API.
+It supports only Dollar to Rupee conversion. 
 
 ## Getting Started
+### Prerequisites
+Ensure you have the following installed:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- Android Studio or Visual Studio Code
+- Xcode (for iOS development)
 
-This project is a starting point for a Flutter application.
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/vedantvisoliya/currency_converter.git
+   cd currency_converter
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the project:
+   ```sh
+   flutter run
+   ```
+   
+## Build & Deployment
+To generate a release build:
+```sh
+flutter build apk   # For Android
+flutter build ios   # For iOS
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Contribution
+Contributions are welcome! Please open an issue or submit a pull request.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](assets/screenshots/currency_converter_0.1.2.png)
