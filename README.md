@@ -1,7 +1,7 @@
 # Currency Converter
 
 ## Overview
-This is a 'Currency Converter' app build in Flutter framework, this does not contains much Features yet, but i will improve it future by integrating API.
+This is a 'Currency Converter' app build in Flutter framework, this does not contains much Features yet, but i will improve it in future by integrating API.
 It supports only Dollar to Rupee conversion. 
 
 ## Getting Started
